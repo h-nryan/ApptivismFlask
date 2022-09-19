@@ -1,3 +1,4 @@
+# Please note that this was code written after my first ever CS course
 Welcome to Apptivism!
 
 # What is Apptivism?
